@@ -1,0 +1,7 @@
+{
+  "name": "KR Bus Stop to Minecraft",
+  "description": "Convert South Korean bus stop IDs into Minecraft coordinates. Uses Gemini AI to fetch real-world location data and translates it into a virtual 1:1 scale block coordinate system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
